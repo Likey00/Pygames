@@ -4,8 +4,7 @@ from random import randint
 pygame.init()
 
 # Set up size and title
-win = pygame.display.set_mode((500, 500))
-pygame.display.set_caption("Pong")
+
 
 run = True
 
